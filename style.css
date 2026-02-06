@@ -1,0 +1,22 @@
+body {
+     
+background-color:red;
+}
+.container {
+max-width: 500px;
+margin: 0 auto
+background: red;
+}
+
+.hero-ing {
+ width: 100%;
+
+}
+
+h1 {
+    font-size: 6vw;
+}   
+
+p {}
+
+
