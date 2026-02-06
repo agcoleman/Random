@@ -20,3 +20,7 @@ h1 {
 p {}
 
 
+.shaunat{width: 40px;position: sticky; top: 0;  z-index: 1000; }
+.shaunat:hover {
+  cursor: pointer;
+}
