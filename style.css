@@ -9,7 +9,6 @@ body {
     align-items: center;
 }
 
-
 .flex-center:first-of-type {
     background: white;
     padding: 30px;
@@ -32,7 +31,7 @@ transition: transform 0.2s;
 body {
     display: grid;
     grid-template-columns: 1fr; 
-    justify-items: center;
+    justify-items: left;
 }
 
 @media (min-width: 800px) {
